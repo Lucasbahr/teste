@@ -8,3 +8,13 @@
 8
 9
 10
+
+adicionando nova versao ! x
+pega essa
+<<<<<<< HEAD
+mas uma versao 2.0
+
+=======
+
+uma nova versao
+>>>>>>> 4509be6a7fce4c4fc995b0ae9873c1005e26bb3f
